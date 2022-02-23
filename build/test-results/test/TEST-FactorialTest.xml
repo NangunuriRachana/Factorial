@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-23T10:19:31" hostname="DESKTOP-0S97499" time="0.029">
+  <properties/>
+  <testcase name="testWhenInputIsGreaterThanZero()" classname="FactorialTest" time="0.019"/>
+  <testcase name="testWhenInputIsNegativeInteger()" classname="FactorialTest" time="0.004"/>
+  <testcase name="testWhenInputIsZero()" classname="FactorialTest" time="0.001"/>
+  <testcase name="testWhenInputIsString()" classname="FactorialTest" time="0.001"/>
+  <testcase name="testWhenInputIsFloat()" classname="FactorialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
